@@ -20,6 +20,17 @@
     font-size: 1.5rem;
 }
 
+.movement-cards{
+    transition-duration: .5s;
+    transform: translateY(0px);
+}
+
+.movement-cards:hover{
+    transition-duration: .4s;
+    transform: translateY(-4px);
+    box-shadow: 0 12px 9px -5px rgb(0 0 0 / 12%), 0 10px 32px 0 rgb(0 29 124 / 12%);
+}
+
 @keyframes typing{
     from { width: 0 }
 }
