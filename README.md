@@ -1,7 +1,7 @@
 # my-website
 My personal website
 
-Link to connect my repo:
+Link to connect repo:
 https://github.com/GerardoBetgro/my-website.git
 
 See this website displayed:
