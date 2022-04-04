@@ -1,5 +1,5 @@
-# my-website
-My personal website
+# My personal website
+## my-website
 
 Link to connect repo:
 https://github.com/GerardoBetgro/my-website.git
